@@ -1,6 +1,7 @@
 {
-  "name": "react-quiz",
-  "version": "2.0.0",
+  "name": "corona-quiz",
+  "version": "1.0.0",
+  "homepage" : "http://rum-n.github.io/corona-quiz/",
   "private": false,
   "dependencies": {
     "prop-types": "^15.6.2",
