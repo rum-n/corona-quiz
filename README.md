@@ -8,4 +8,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Idea
 
-This is NOT meant to be a tool for determining whether you're sick with COVID-19, but rather to inform the public of the main symptoms and what everyone should do, if they experience any of them. Namely to stay at home and call your MD.
+This is NOT meant to be a tool for determining whether you're sick with COVID-19, but rather to inform the public of the main symptoms and what everyone should do if they experience any of them. Namely to stay at home and call their MD.
